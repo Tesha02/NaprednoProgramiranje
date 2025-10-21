@@ -50,6 +50,7 @@
 			btnStop.TabIndex = 1;
 			btnStop.Text = "Zaustavi Server";
 			btnStop.UseVisualStyleBackColor = true;
+			btnStop.Click += btnStop_Click;
 			// 
 			// Form1
 			// 
@@ -60,6 +61,7 @@
 			Controls.Add(btnStart);
 			Name = "Form1";
 			Text = "Form1";
+			FormClosed += Form1_FormClosed;
 			ResumeLayout(false);
 		}
 

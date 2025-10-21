@@ -114,5 +114,12 @@
 		private TextBox tbKorisnickoIme;
 		private Label label2;
 		private Label label1;
+
+		public PictureBox PbShowPass { get => pbShowPass; set => pbShowPass = value; }
+		public Button BtnUloguj { get => btnUloguj; set => btnUloguj = value; }
+		public TextBox TbLozinka { get => tbLozinka; set => tbLozinka = value; }
+		public TextBox TbKorisnickoIme { get => tbKorisnickoIme; set => tbKorisnickoIme = value; }
+		public Label Label2 { get => label2; set => label2 = value; }
+		public Label Label1 { get => label1; set => label1 = value; }
 	}
 }

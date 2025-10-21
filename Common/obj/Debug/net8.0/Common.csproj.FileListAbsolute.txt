@@ -48,3 +48,14 @@ D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\De
 D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\refint\Common.dll
 D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\Common.pdb
 D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\ref\Common.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\bin\Debug\net8.0\Common.deps.json
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\bin\Debug\net8.0\Common.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\bin\Debug\net8.0\Common.pdb
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\Common.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\refint\Common.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\Common.pdb
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Common\obj\Debug\net8.0\ref\Common.dll
