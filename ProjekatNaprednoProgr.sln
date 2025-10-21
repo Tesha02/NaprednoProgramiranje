@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBBroker", "DBBroker\DBBrok
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{E73AC87E-149C-42DA-93DD-E5751BCEFB34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server.Core", "Server.Core\Server.Core.csproj", "{F1E8D690-9C29-4213-943D-8E48E64A5961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E8D690-9C29-4213-943D-8E48E64A5961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E8D690-9C29-4213-943D-8E48E64A5961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E8D690-9C29-4213-943D-8E48E64A5961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E8D690-9C29-4213-943D-8E48E64A5961}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

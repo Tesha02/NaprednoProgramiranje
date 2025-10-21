@@ -61,3 +61,5 @@ D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Server\
 D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Server\obj\Debug\net8.0-windows\Server.pdb
 D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
 D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Server\obj\Debug\net8.0-windows\ref\Server.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Server\bin\Debug\net8.0-windows\Castle.Core.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Server\bin\Debug\net8.0-windows\Moq.dll

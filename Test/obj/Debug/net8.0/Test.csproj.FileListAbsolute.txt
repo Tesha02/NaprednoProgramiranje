@@ -140,3 +140,9 @@ D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\ob
 D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\obj\Debug\net8.0\Test.pdb
 D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\obj\Debug\net8.0\Test.genruntimeconfig.cache
 D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\obj\Debug\net8.0\ref\Test.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\bin\Debug\net8.0\Castle.Core.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\bin\Debug\net8.0\Moq.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\bin\Debug\net8.0\DBBroker.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\bin\Debug\net8.0\Server.Core.dll
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\bin\Debug\net8.0\DBBroker.pdb
+D:\fon 4. godina\2.semestar\Napredno Programiranje\ProjekatNaprednoProgr\Test\bin\Debug\net8.0\Server.Core.pdb

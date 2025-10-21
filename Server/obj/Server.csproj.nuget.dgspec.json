@@ -53,6 +53,10 @@
               "target": "Package",
               "version": "[5.2.2, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[9.0.10, )"
@@ -131,6 +135,10 @@
               "target": "Package",
               "version": "[5.2.2, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[9.0.10, )"
@@ -207,6 +215,10 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.2.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
