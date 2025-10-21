@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\mesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\mesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\test\\domaintests\\artikaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|solutionrelative:test\\domaintests\\artikaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\test\\domaintests\\mestotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|solutionrelative:test\\domaintests\\mestotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\test\\domaintests\\stavkaporudzbenicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|solutionrelative:test\\domaintests\\stavkaporudzbenicatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}|Test\\Test.csproj|solutionrelative:test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E129942-C833-4EF6-88FD-865055EC41F4}|Server\\Server.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E129942-C833-4EF6-88FD-865055EC41F4}|Server\\Server.csproj|solutionrelative:server\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E129942-C833-4EF6-88FD-865055EC41F4}|Server\\Server.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\server\\systemoperations\\dodajartikalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E129942-C833-4EF6-88FD-865055EC41F4}|Server\\Server.csproj|solutionrelative:server\\systemoperations\\dodajartikalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\mesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\mesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E73AC87E-149C-42DA-93DD-E5751BCEFB34}|Client\\Client.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -187,10 +207,6 @@
       "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\artikal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\stavkaporudzbenice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\stavkaporudzbenice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\prss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\prss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -201,10 +217,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\porudzbenica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\porudzbenica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|solutionrelative:common\\domain\\radnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E6142D7-A85A-4AE5-8B92-3F102D42F9B7}|Common\\Common.csproj|d:\\fon 4. godina\\2.semestar\\napredno programiranje\\projekatnaprednoprogr\\common\\domain\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -238,17 +250,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "ClientHandler.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\ClientHandler.cs",
               "RelativeDocumentMoniker": "Server\\ClientHandler.cs",
               "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\ClientHandler.cs",
               "RelativeToolTip": "Server\\ClientHandler.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwv68AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwKsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T01:22:09.879Z",
               "IsPinned": true,
@@ -256,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Controller.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\Controller.cs",
               "RelativeDocumentMoniker": "Server\\Controller.cs",
@@ -265,12 +277,11 @@
               "ViewState": "AgIAAJ0AAAAAAAAAAAA6wK0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T01:22:11.056Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Communication.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\Communication.cs",
               "RelativeDocumentMoniker": "Client\\Communication.cs",
@@ -279,12 +290,89 @@
               "ViewState": "AgIAAC4BAAAAAAAAAAAewD0BAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T23:32:37.322Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StavkaPorudzbenicaTests.cs",
+              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\DomainTests\\StavkaPorudzbenicaTests.cs",
+              "RelativeDocumentMoniker": "Test\\DomainTests\\StavkaPorudzbenicaTests.cs",
+              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\DomainTests\\StavkaPorudzbenicaTests.cs",
+              "RelativeToolTip": "Test\\DomainTests\\StavkaPorudzbenicaTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:01:59.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MestoTests.cs",
+              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\DomainTests\\MestoTests.cs",
+              "RelativeDocumentMoniker": "Test\\DomainTests\\MestoTests.cs",
+              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\DomainTests\\MestoTests.cs",
+              "RelativeToolTip": "Test\\DomainTests\\MestoTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:47:05.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtikalTests.cs",
+              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\DomainTests\\ArtikalTests.cs",
+              "RelativeDocumentMoniker": "Test\\DomainTests\\ArtikalTests.cs",
+              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\DomainTests\\ArtikalTests.cs",
+              "RelativeToolTip": "Test\\DomainTests\\ArtikalTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:44:48.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mesto.cs",
+              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Mesto.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Mesto.cs",
+              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Mesto.cs",
+              "RelativeToolTip": "Common\\Domain\\Mesto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:42:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radnik.cs",
+              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Radnik.cs",
+              "RelativeDocumentMoniker": "Common\\Domain\\Radnik.cs",
+              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Radnik.cs",
+              "RelativeToolTip": "Common\\Domain\\Radnik.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:56:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test\\UnitTest1.cs",
+              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Test\\UnitTest1.cs",
+              "RelativeToolTip": "Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:43:01.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ObrisiPorudzbenicaSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\ObrisiPorudzbenicaSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\ObrisiPorudzbenicaSO.cs",
@@ -292,12 +380,11 @@
               "RelativeToolTip": "Server\\SystemOperations\\ObrisiPorudzbenicaSO.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T14:40:25.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T14:40:25.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "MainCoordinator.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\GuiController\\MainCoordinator.cs",
               "RelativeDocumentMoniker": "Client\\GuiController\\MainCoordinator.cs",
@@ -305,12 +392,11 @@
               "RelativeToolTip": "Client\\GuiController\\MainCoordinator.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAA9wGYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T13:08:39.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T13:08:39.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "DodajArtikalGuiController.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\GuiController\\DodajArtikalGuiController.cs",
               "RelativeDocumentMoniker": "Client\\GuiController\\DodajArtikalGuiController.cs",
@@ -318,12 +404,11 @@
               "RelativeToolTip": "Client\\GuiController\\DodajArtikalGuiController.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAAAswLUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:41:19.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:41:19.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AzurirajArtikalSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\AzurirajArtikalSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\AzurirajArtikalSO.cs",
@@ -331,12 +416,11 @@
               "RelativeToolTip": "Server\\SystemOperations\\AzurirajArtikalSO.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAMwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T12:58:46.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T12:58:46.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "RadSaArtiklimaGuiController.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\GuiController\\RadSaArtiklimaGuiController.cs",
               "RelativeDocumentMoniker": "Client\\GuiController\\RadSaArtiklimaGuiController.cs",
@@ -344,12 +428,11 @@
               "RelativeToolTip": "Client\\GuiController\\RadSaArtiklimaGuiController.cs",
               "ViewState": "AgIAAHEAAAAAAAAAAAAYwH4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:08:03.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T10:08:03.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "DodajArtikalSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\DodajArtikalSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\DodajArtikalSO.cs",
@@ -357,12 +440,11 @@
               "RelativeToolTip": "Server\\SystemOperations\\DodajArtikalSO.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:58:17.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:58:17.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "DodajKupcaSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\DodajKupcaSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\DodajKupcaSO.cs",
@@ -370,12 +452,11 @@
               "RelativeToolTip": "Server\\SystemOperations\\DodajKupcaSO.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:58:51.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:58:51.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Client\\FrmLogin.cs",
@@ -388,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Server.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\Server.cs",
               "RelativeDocumentMoniker": "Server\\Server.cs",
@@ -396,25 +477,11 @@
               "RelativeToolTip": "Server\\Server.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:40:12.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T09:40:12.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Mesto.cs",
-              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Mesto.cs",
-              "RelativeDocumentMoniker": "Common\\Domain\\Mesto.cs",
-              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Mesto.cs",
-              "RelativeToolTip": "Common\\Domain\\Mesto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:42:38.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "LoginGuiController.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\GuiController\\LoginGuiController.cs",
               "RelativeDocumentMoniker": "Client\\GuiController\\LoginGuiController.cs",
@@ -422,12 +489,11 @@
               "RelativeToolTip": "Client\\GuiController\\LoginGuiController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAiwD4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:47:41.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T09:47:41.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
@@ -435,37 +501,34 @@
               "RelativeToolTip": "Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:45:35.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:45:35.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Client",
+              "DocumentIndex": 18,
+              "Title": "Client.csproj",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\Client.csproj",
               "RelativeDocumentMoniker": "Client\\Client.csproj",
               "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\Client.csproj",
               "RelativeToolTip": "Client\\Client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-21T09:42:45.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T09:42:45.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "FrmLogin.cs [Design]",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmLogin.cs",
               "RelativeDocumentMoniker": "Client\\FrmLogin.cs",
               "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmLogin.cs [Design]",
               "RelativeToolTip": "Client\\FrmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:57:38.273Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-20T22:57:38.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "FrmLogin.Designer.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmLogin.Designer.cs",
               "RelativeDocumentMoniker": "Client\\FrmLogin.Designer.cs",
@@ -473,12 +536,11 @@
               "RelativeToolTip": "Client\\FrmLogin.Designer.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAQwHQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:44:04.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:44:04.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
@@ -486,12 +548,11 @@
               "RelativeToolTip": "Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:46:28.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T09:46:28.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "FrmMain.Designer.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmMain.Designer.cs",
               "RelativeDocumentMoniker": "Client\\FrmMain.Designer.cs",
@@ -499,12 +560,11 @@
               "RelativeToolTip": "Client\\FrmMain.Designer.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:43:07.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:43:07.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "FrmMain.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmMain.cs",
               "RelativeDocumentMoniker": "Client\\FrmMain.cs",
@@ -517,19 +577,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "FrmMain.cs [Design]",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmMain.cs",
               "RelativeDocumentMoniker": "Client\\FrmMain.cs",
               "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\FrmMain.cs [Design]",
               "RelativeToolTip": "Client\\FrmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:28:12.752Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-20T23:28:12.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
@@ -542,19 +601,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\Form1.cs",
               "RelativeDocumentMoniker": "Server\\Form1.cs",
               "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\Form1.cs [Design]",
               "RelativeToolTip": "Server\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T18:10:01.462Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-20T18:10:01.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "App.config",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\App.config",
               "RelativeDocumentMoniker": "Server\\App.config",
@@ -562,12 +620,11 @@
               "RelativeToolTip": "Server\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-21T00:08:17.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:08:17.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "VratiArtiklePoTipuSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\VratiArtiklePoTipuSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\VratiArtiklePoTipuSO.cs",
@@ -579,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Broker.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\DBBroker\\Broker.cs",
               "RelativeDocumentMoniker": "DBBroker\\Broker.cs",
@@ -587,12 +644,11 @@
               "RelativeToolTip": "DBBroker\\Broker.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAswHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:00:23.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T23:00:23.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "LoginSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\LoginSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\LoginSO.cs",
@@ -600,12 +656,11 @@
               "RelativeToolTip": "Server\\SystemOperations\\LoginSO.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T01:03:38.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T01:03:38.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "VratiKupcaSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\VratiKupcaSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\VratiKupcaSO.cs",
@@ -617,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "VratiArtikalSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\VratiArtikalSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\VratiArtikalSO.cs",
@@ -629,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "ObrisiStrSpremuSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\ObrisiStrSpremuSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\ObrisiStrSpremuSO.cs",
@@ -641,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "ObrisiMestoSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\ObrisiMestoSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\ObrisiMestoSO.cs",
@@ -653,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "DodajStrSpremuSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\DodajStrSpremuSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\DodajStrSpremuSO.cs",
@@ -665,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "DodajPorudzbenicuSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\DodajPorudzbenicuSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\DodajPorudzbenicuSO.cs",
@@ -677,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "DodajMestoSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\DodajMestoSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\DodajMestoSO.cs",
@@ -689,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "AzurirajPorudzbenicuSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\AzurirajPorudzbenicuSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\AzurirajPorudzbenicuSO.cs",
@@ -701,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "AzurirajStrSpremuSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\AzurirajStrSpremuSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\AzurirajStrSpremuSO.cs",
@@ -713,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "AzurirajKupcaSO.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\AzurirajKupcaSO.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\AzurirajKupcaSO.cs",
@@ -725,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Class1.cs",
               "RelativeDocumentMoniker": "Common\\Class1.cs",
@@ -737,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "UCDodajArtikal.Designer.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\UserControllers\\UCDodajArtikal.Designer.cs",
               "RelativeDocumentMoniker": "Client\\UserControllers\\UCDodajArtikal.Designer.cs",
@@ -745,12 +800,11 @@
               "RelativeToolTip": "Client\\UserControllers\\UCDodajArtikal.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:41:43.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:41:43.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 45,
               "Title": "UCDodajArtikal.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\UserControllers\\UCDodajArtikal.cs",
               "RelativeDocumentMoniker": "Client\\UserControllers\\UCDodajArtikal.cs",
@@ -758,12 +812,11 @@
               "RelativeToolTip": "Client\\UserControllers\\UCDodajArtikal.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T00:41:30.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T00:41:30.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 46,
               "Title": "SystemOperationBase.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Server\\SystemOperations\\SystemOperationBase.cs",
               "RelativeDocumentMoniker": "Server\\SystemOperations\\SystemOperationBase.cs",
@@ -775,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "Operation.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Communication\\Operation.cs",
               "RelativeDocumentMoniker": "Common\\Communication\\Operation.cs",
@@ -787,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 47,
               "Title": "DbConnection.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\DBBroker\\DbConnection.cs",
               "RelativeDocumentMoniker": "DBBroker\\DbConnection.cs",
@@ -799,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 49,
               "Title": "Kupac.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Kupac.cs",
               "RelativeDocumentMoniker": "Common\\Domain\\Kupac.cs",
@@ -811,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "Artikal.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Artikal.cs",
               "RelativeDocumentMoniker": "Common\\Domain\\Artikal.cs",
@@ -823,19 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "StavkaPorudzbenice.cs",
-              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\StavkaPorudzbenice.cs",
-              "RelativeDocumentMoniker": "Common\\Domain\\StavkaPorudzbenice.cs",
-              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\StavkaPorudzbenice.cs",
-              "RelativeToolTip": "Common\\Domain\\StavkaPorudzbenice.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:44:20.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "PrSS.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\PrSS.cs",
               "RelativeDocumentMoniker": "Common\\Domain\\PrSS.cs",
@@ -847,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "StrSprema.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\StrSprema.cs",
               "RelativeDocumentMoniker": "Common\\Domain\\StrSprema.cs",
@@ -859,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "Porudzbenica.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Porudzbenica.cs",
               "RelativeDocumentMoniker": "Common\\Domain\\Porudzbenica.cs",
@@ -871,19 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Radnik.cs",
-              "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Radnik.cs",
-              "RelativeDocumentMoniker": "Common\\Domain\\Radnik.cs",
-              "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\Radnik.cs",
-              "RelativeToolTip": "Common\\Domain\\Radnik.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:56:52.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "IEntity.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Domain\\IEntity.cs",
               "RelativeDocumentMoniker": "Common\\Domain\\IEntity.cs",
@@ -895,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "JsonNetworkSerializer.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Communication\\JsonNetworkSerializer.cs",
               "RelativeDocumentMoniker": "Common\\Communication\\JsonNetworkSerializer.cs",
@@ -907,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "Request.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Communication\\Request.cs",
               "RelativeDocumentMoniker": "Common\\Communication\\Request.cs",
@@ -919,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "Response.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Common\\Communication\\Response.cs",
               "RelativeDocumentMoniker": "Common\\Communication\\Response.cs",
@@ -931,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "UCDodajKupca.cs",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\UserControllers\\UCDodajKupca.cs",
               "RelativeDocumentMoniker": "Client\\UserControllers\\UCDodajKupca.cs",
@@ -944,15 +973,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "UCDodajKupca.cs [Design]",
               "DocumentMoniker": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\UserControllers\\UCDodajKupca.cs",
               "RelativeDocumentMoniker": "Client\\UserControllers\\UCDodajKupca.cs",
               "ToolTip": "D:\\fon 4. godina\\2.semestar\\Napredno Programiranje\\ProjekatNaprednoProgr\\Client\\UserControllers\\UCDodajKupca.cs [Design]",
               "RelativeToolTip": "Client\\UserControllers\\UCDodajKupca.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:30:33.98Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-20T23:30:33.98Z"
             }
           ]
         }

@@ -13,18 +13,18 @@ namespace Common.Domain
 		public string PostanskiBroj { get; set; }
 
 		public string TableName => "Mesto";
-		public string Values => $"'{Naziv}', '{PostanskiBroj}'";
-		public string UpdateValues => $"Naziv = '{Naziv}', PostanskiBroj = '{PostanskiBroj}'";
+		public string Values => $"'{PostanskiBroj}', '{Naziv}'";
+		public string UpdateValues => "";
 		public string WhereCondition => $"PostanskiBroj = '{PostanskiBroj}'";
 		public string CountWhereCondition => $"Naziv = '{Naziv}'";
 		public string JoinTable => "";
-		public string GetCondition => $"PostanskiBroj = '{PostanskiBroj}'";
+		public string GetCondition => "";
 		public string TableAlias => "m";
-		public string outputId => "Id";
+		public string outputId => "PostanskiBroj";
 
 		public override string? ToString()
 		{
-			return $"{Naziv} ({PostanskiBroj})";
+			return $"{Naziv}";
 		}
 
 		public List<IEntity> GetReaderList(SqlDataReader reader)

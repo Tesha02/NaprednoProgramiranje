@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBBroker", "DBBroker\DBBroker.csproj", "{9E625537-EFDC-4D35-9BEE-5BFA9DAB8377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{E73AC87E-149C-42DA-93DD-E5751BCEFB34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{E73AC87E-149C-42DA-93DD-E5751BCEFB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E73AC87E-149C-42DA-93DD-E5751BCEFB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E73AC87E-149C-42DA-93DD-E5751BCEFB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E73AC87E-149C-42DA-93DD-E5751BCEFB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5DB7E4-0F57-4BA1-BA65-E87F5F721796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
