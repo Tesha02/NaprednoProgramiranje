@@ -11,6 +11,7 @@ namespace Common.Domain
 		VOLAN,
 		KAROSERIJA,
 		MOTOR,
-		BRANIK
+		BRANIK,
+		TOCKOVI
 	}
 }

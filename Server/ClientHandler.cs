@@ -60,7 +60,124 @@ namespace Server
 			{
 				switch (req.Operation)
 				{
-					
+					case Operation.Login:
+						{
+							r.Result= Controller.Instance.Login(serializer.ReadType<Radnik>(req.Argument));
+							break;
+						}
+					case Operation.DodajKupca:
+						{
+							Controller.Instance.DodajKupca(serializer.ReadType<Kupac>(req.Argument));
+							break;
+						}
+					case Operation.DodajPorudzbenicu:
+						{
+							Controller.Instance.DodajPorudzbenicu(serializer.ReadType<Porudzbenica>(req.Argument));
+							break;
+						}
+					case Operation.DodajArtikal:
+						{
+							Controller.Instance.DodajArtikal(serializer.ReadType<Artikal>(req.Argument));
+							break;
+						}
+					case Operation.DodajMesto:
+						{
+							Controller.Instance.DodajMesto(serializer.ReadType<Mesto>(req.Argument));
+							break;
+						}
+					case Operation.DodajStrSpremu:
+						{
+							Controller.Instance.DodajStrSpremu(serializer.ReadType<StrSprema>(req.Argument));
+							break;
+						}
+					case Operation.VratiArtikle:
+						{
+							r.Result=Controller.Instance.VratiArtikle();
+							break;
+						}
+					case Operation.VratiKupce:
+						{
+							r.Result= Controller.Instance.VratiKupce();
+							break;
+						}
+					case Operation.VratiMesta:
+						{
+							r.Result = Controller.Instance.VratiMesta();
+							break;
+						}
+					case Operation.VratiPorudzbenice:
+						{
+							r.Result = Controller.Instance.VratiPorudzbenice();
+							break;
+						}
+					case Operation.VratiStrSpreme:
+						{
+							r.Result = Controller.Instance.VratiStrucneSpreme();
+							break;
+						}
+					case Operation.VratiTipove:
+						{
+							r.Result = Controller.Instance.VratiTipove();
+							break;
+						}
+					case Operation.VratiKupca:
+						{
+							r.Result = Controller.Instance.VratiKupca(serializer.ReadType<Kupac>(req.Argument));
+							break;
+						}
+					case Operation.VratiArtikal:
+						{
+							r.Result = Controller.Instance.VratiArtikal(serializer.ReadType<Artikal>(req.Argument));
+							break;
+						}
+					case Operation.VratiPorudzbenicu:
+						{
+							r.Result = Controller.Instance.VratiPorudzbenicu(serializer.ReadType<Porudzbenica>(req.Argument));
+							break;
+						}
+					case Operation.VratiStrSpremu:
+						{
+							r.Result = Controller.Instance.VratiStrSpremu(serializer.ReadType<StrSprema>(req.Argument));
+							break;
+						}
+					case Operation.AzurirajArtikal:
+						{
+							r.Result = Controller.Instance.AzurirajArtikal(serializer.ReadType<Artikal>(req.Argument));
+							break;
+						}
+					case Operation.AzurirajKupca:
+						{
+							r.Result = Controller.Instance.AzurirajKupca(serializer.ReadType<Kupac>(req.Argument));
+							break;
+						}
+					case Operation.AzurirajPorudzbenicu:
+						{
+							r.Result = Controller.Instance.AzurirajPorudzbenicu(serializer.ReadType<Porudzbenica>(req.Argument));
+							break;
+						}
+					case Operation.AzurirajStrSpremu:
+						{
+							r.Result = Controller.Instance.AzurirajStrSpremu(serializer.ReadType<StrSprema>(req.Argument));
+							break;
+						}
+					case Operation.ObrisiMesto:
+						{
+							Controller.Instance.ObrisiMesto(serializer.ReadType<Mesto>(req.Argument));
+							break;
+						}
+					case Operation.ObrisiStrSpremu:
+						{
+							Controller.Instance.ObrisiStrSpremu(serializer.ReadType<StrSprema>(req.Argument));
+							break;
+						}
+					case Operation.ObrisiPorudzbenicu:
+						{
+							Controller.Instance.ObrisiPorudzbenicu(serializer.ReadType<Porudzbenica>(req.Argument));
+							break;
+						}
+
+
+
 				}
 			}
 			catch (Exception ex)

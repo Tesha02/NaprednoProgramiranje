@@ -16,8 +16,9 @@ namespace Client.UserControllers
 		public UCRadSaArtiklima(FrmMain frmMain)
 		{
 			InitializeComponent();
-			RadSaArtiklimaGuiController.Instance.PopuniFormu(this,frmMain);
+			RadSaArtiklimaGuiController.Instance.PopuniFormu(this, frmMain);
 
 		}
+
 	}
 }

@@ -88,7 +88,7 @@
 			label1.TabIndex = 6;
 			label1.Text = "Korisnicko ime:";
 			// 
-			// LoginForma
+			// FrmLogin
 			// 
 			AutoScaleDimensions = new SizeF(8F, 20F);
 			AutoScaleMode = AutoScaleMode.Font;
@@ -99,8 +99,9 @@
 			Controls.Add(tbKorisnickoIme);
 			Controls.Add(label2);
 			Controls.Add(label1);
-			Name = "LoginForma";
+			Name = "FrmLogin";
 			Text = "Form1";
+			FormClosed += FrmLogin_FormClosed;
 			((System.ComponentModel.ISupportInitialize)pbShowPass).EndInit();
 			ResumeLayout(false);
 			PerformLayout();

@@ -9,14 +9,13 @@ namespace Common.Domain
 {
 	public class Mesto : IEntity
 	{
-		public long Id { get; set; }
 		public string Naziv { get; set; }
 		public string PostanskiBroj { get; set; }
 
 		public string TableName => "Mesto";
 		public string Values => $"'{Naziv}', '{PostanskiBroj}'";
 		public string UpdateValues => $"Naziv = '{Naziv}', PostanskiBroj = '{PostanskiBroj}'";
-		public string WhereCondition => $"Id = {Id}";
+		public string WhereCondition => $"PostanskiBroj = '{PostanskiBroj}'";
 		public string CountWhereCondition => $"Naziv = '{Naziv}'";
 		public string JoinTable => "";
 		public string GetCondition => $"PostanskiBroj = '{PostanskiBroj}'";
@@ -36,7 +35,7 @@ namespace Common.Domain
 			{
 				Mesto mesto = new Mesto
 				{
-					Id = (long)reader["Id"],
+					
 					Naziv = (string)reader["Naziv"],
 					PostanskiBroj = (string)reader["PostanskiBroj"]
 				};
@@ -49,7 +48,7 @@ namespace Common.Domain
 
 		public void setId(long id)
 		{
-			this.Id = id;
+			
 		}
 	}
 }
