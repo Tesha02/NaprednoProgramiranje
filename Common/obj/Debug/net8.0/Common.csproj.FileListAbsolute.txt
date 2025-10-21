@@ -1,0 +1,50 @@
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\konacna_arhitektura\vezbe09sreda\Common\bin\Debug\net8.0\Common.deps.json
+C:\konacna_arhitektura\vezbe09sreda\Common\bin\Debug\net8.0\Common.dll
+C:\konacna_arhitektura\vezbe09sreda\Common\bin\Debug\net8.0\Common.pdb
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\Common.dll
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\refint\Common.dll
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\Common.pdb
+C:\konacna_arhitektura\vezbe09sreda\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\Common.dll
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\bin\Debug\net8.0\Common.dll
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\USER\Downloads\konacnaarhitektura\konacnaarhitektura\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\USER\Downloads\projekat_v15\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\USER\Downloads\projekat_v15\Common\bin\Debug\net8.0\Common.dll
+C:\Users\USER\Downloads\projekat_v15\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\Common.dll
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\USER\Downloads\projekat_v15\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\bin\Debug\net8.0\Common.dll
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\Common.dll
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\tanja\Downloads\projekat_v15\projekat_v15\Common\obj\Debug\net8.0\ref\Common.dll
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\bin\Debug\net8.0\Common.deps.json
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\bin\Debug\net8.0\Common.dll
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\bin\Debug\net8.0\Common.pdb
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\Common.dll
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\refint\Common.dll
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\Common.pdb
+D:\fon 4. godina\1.semestar\projektovanje softvera\c#\projekat_v15\Common\obj\Debug\net8.0\ref\Common.dll
