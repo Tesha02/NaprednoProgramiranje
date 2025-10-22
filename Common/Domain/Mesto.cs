@@ -1,54 +1,71 @@
-using Microsoft.Data.SqlClient;
-using System;
+﻿using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Common.Domain
 {
+	/// <summary>
+	/// Domenska klasa koja predstavlja mesto (opština/grad) sa poštanskim brojem.
+	/// </summary>
 	public class Mesto : IEntity
 	{
-		public string Naziv { get; set; }
+		/// <summary>Poštanski broj mesta (primarni ključ).</summary>
 		public string PostanskiBroj { get; set; }
 
+		/// <summary>Naziv mesta.</summary>
+		public string Naziv { get; set; }
+
+		/// <summary>Naziv tabele u bazi.</summary>
 		public string TableName => "Mesto";
+
+		/// <summary>
+		/// Vrednosti za INSERT (PostanskiBroj, Naziv).
+		/// </summary>
 		public string Values => $"'{PostanskiBroj}', '{Naziv}'";
-		public string UpdateValues => "";
+
+		/// <summary>WHERE uslov po poštanskom broju.</summary>
 		public string WhereCondition => $"PostanskiBroj = '{PostanskiBroj}'";
-		public string CountWhereCondition => $"Naziv = '{Naziv}'";
+
+		/// <summary>Nema posebnog COUNT uslova.</summary>
+		public string CountWhereCondition => "";
+
+		/// <summary>Nema JOIN-ova za Mesto.</summary>
 		public string JoinTable => "";
+
+		/// <summary>Nema dodatnog uslova (filtera) za SELECT.</summary>
 		public string GetCondition => "";
+
+		/// <summary>Nema UPDATE vrednosti (entitet se retko menja u ovoj implementaciji).</summary>
+		public string UpdateValues => "";
+
+		/// <summary>Alias tabele u upitima.</summary>
 		public string TableAlias => "m";
+
+		/// <summary>Kolona koja se vraća kao identifikator pri insertu.</summary>
 		public string outputId => "PostanskiBroj";
 
-		public override string? ToString()
-		{
-			return $"{Naziv}";
-		}
-
+		/// <summary>
+		/// Mapira rezultate data reader-a u listu entiteta <see cref="Mesto"/>.
+		/// </summary>
+		/// <param name="reader">Reader sa kolonama: PostanskiBroj, Naziv.</param>
 		public List<IEntity> GetReaderList(SqlDataReader reader)
 		{
-			List<IEntity> mesta = new List<IEntity>();
-
+			var mesta = new List<IEntity>();
 			while (reader.Read())
 			{
-				Mesto mesto = new Mesto
+				var m = new Mesto
 				{
-					
-					Naziv = (string)reader["Naziv"],
-					PostanskiBroj = (string)reader["PostanskiBroj"]
+					PostanskiBroj = (string)reader["PostanskiBroj"],
+					Naziv = (string)reader["Naziv"]
 				};
-
-				mesta.Add(mesto);
+				mesta.Add(m);
 			}
-
 			return mesta;
 		}
 
-		public void setId(long id)
-		{
-			
-		}
+		/// <summary>Ne koristi se jer je primarni ključ string (poštanski broj).</summary>
+		public void setId(long id) { }
+
+		/// <summary>Vraća naziv mesta.</summary>
+		public override string? ToString() => Naziv;
 	}
 }
