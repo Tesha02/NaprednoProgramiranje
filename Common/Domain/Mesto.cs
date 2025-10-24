@@ -8,11 +8,35 @@ namespace Common.Domain
 	/// </summary>
 	public class Mesto : IEntity
 	{
+		/// <summary>
+		/// Zbog logicke kontrole izdvojicemo naziv i cenu u privatne promenljive
+		/// </summary>
+		private string postanskiBroj;
+		private string naziv;
+
 		/// <summary>Poštanski broj mesta (primarni ključ).</summary>
-		public string PostanskiBroj { get; set; }
+		public string PostanskiBroj
+		{
+			get => postanskiBroj;
+			set
+			{
+				Validator.ValidateStrings(value, "Postanski broj mesta");
+				if (int.TryParse(value, out int pb) == false || pb < 10000 || pb > 99999)
+					throw new System.Exception("Poštanski broj mora biti petocifreni broj.");
+				postanskiBroj = value;
+			}
+		}
 
 		/// <summary>Naziv mesta.</summary>
-		public string Naziv { get; set; }
+		public string Naziv
+		{
+			get => naziv;
+			set
+			{
+				Validator.ValidateStrings(value, "Naziv mesta");
+				naziv = value;
+			}
+		}
 
 		/// <summary>Naziv tabele u bazi.</summary>
 		public string TableName => "Mesto";

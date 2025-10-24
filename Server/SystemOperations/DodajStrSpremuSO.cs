@@ -24,6 +24,11 @@ namespace Server.SystemOperations
 		private readonly StrSprema strSprema;
 
 		/// <summary>
+		/// Rezultat operacije — strucna sprema koja je uspešno dodata u bazu (uključujući dodeljeni Id).
+		/// </summary>
+		public StrSprema Result;
+
+		/// <summary>
 		/// Inicijalizuje novu instancu operacije za dodavanje stručne spreme.
 		/// </summary>
 		/// <param name="ss">Objekat tipa <see cref="StrSprema"/> koji treba da bude dodat u bazu.</param>
@@ -42,6 +47,7 @@ namespace Server.SystemOperations
 		protected override void ExecuteConcreteOperation()
 		{
 			broker.Add(strSprema);
+			Result = strSprema;
 		}
 	}
 }

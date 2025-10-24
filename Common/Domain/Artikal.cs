@@ -9,14 +9,44 @@ namespace Common.Domain
 	/// </summary>
 	public class Artikal : IEntity
 	{
+		/// <summary>
+		/// Zbog logicke kontrole izdvojicemo naziv i cenu u privatne promenljive
+		/// </summary>
+		private string naziv;
+		private double cena;
+		
 		/// <summary>Jedinstveni identifikator artikla.</summary>
 		public long Id { get; set; }
 
-		/// <summary>Naziv artikla (npr. "Volan golf 6").</summary>
-		public string Naziv { get; set; }
+		/// <summary>Naziv artikla (npr. "Volan golf 6").
+		/// Artikal mora imati naziv
+		/// ovde imamo kombinaciju value==null + na korisnickom interfejsu validaciju
+		/// </summary>
+		public string Naziv
+		{
+			get => naziv;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateStrings(value, "Naziv artikla");
+				naziv = value;
+			}
+		}
 
-		/// <summary>Cena artikla u dinarima.</summary>
-		public double Cena { get; set; }
+		/// <summary>
+		/// Cena artikla u dinarima
+		/// Cena ne sme biti manja od 0
+		/// </summary>
+		public double Cena
+		{
+			get => cena;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateNumbers(value, "Cena artikla");
+				cena = value;
+			}
+		}
 
 		/// <summary>Tip artikla (npr. Volan, Karoserija...).</summary>
 		public Tip Tip { get; set; }

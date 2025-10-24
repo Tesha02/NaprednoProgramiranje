@@ -67,17 +67,17 @@ namespace Server
 						}
 					case Operation.DodajKupca:
 						{
-							Controller.Instance.DodajKupca(serializer.ReadType<Kupac>(req.Argument));
+							r.Result=(Controller.Instance.DodajKupca(serializer.ReadType<Kupac>(req.Argument))).Id;
 							break;
 						}
 					case Operation.DodajPorudzbenicu:
 						{
-							Controller.Instance.DodajPorudzbenicu(serializer.ReadType<Porudzbenica>(req.Argument));
+							r.Result=Controller.Instance.DodajPorudzbenicu(serializer.ReadType<Porudzbenica>(req.Argument)).Id;
 							break;
 						}
 					case Operation.DodajArtikal:
 						{
-							Controller.Instance.DodajArtikal(serializer.ReadType<Artikal>(req.Argument));
+							r.Result=Controller.Instance.DodajArtikal(serializer.ReadType<Artikal>(req.Argument)).Id;
 							break;
 						}
 					case Operation.DodajMesto:
@@ -87,7 +87,7 @@ namespace Server
 						}
 					case Operation.DodajStrSpremu:
 						{
-							Controller.Instance.DodajStrSpremu(serializer.ReadType<StrSprema>(req.Argument));
+							r.Result=Controller.Instance.DodajStrSpremu(serializer.ReadType<StrSprema>(req.Argument)).Id;
 							break;
 						}
 					case Operation.VratiArtikle:

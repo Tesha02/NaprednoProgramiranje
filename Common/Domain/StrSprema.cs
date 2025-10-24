@@ -8,11 +8,24 @@ namespace Common.Domain
 	/// </summary>
 	public class StrSprema : IEntity
 	{
+		/// <summary>
+		/// Zbog logicke kontrolore izdvajamo naziv u privatne promenljive
+		/// </summary>
+		private string naziv;
 		/// <summary>Jedinstveni identifikator stručne spreme.</summary>
 		public long Id { get; set; }
 
 		/// <summary>Oznaka ili naziv (npr. "VSS").</summary>
-		public string Naziv { get; set; }
+		public string Naziv
+		{
+			get => naziv;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateStrings(value, "Naziv strucne spreme");
+				naziv = value;
+			}
+		}
 
 		/// <summary>Opis stručne spreme (opciono detaljnije).</summary>
 		public string Opis { get; set; }

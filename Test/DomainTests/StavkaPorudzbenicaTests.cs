@@ -38,14 +38,14 @@ namespace Test.DomainTests
 		}
 
 		[Theory]
-		[InlineData(1, "PorudzbenicaId = 1")]
-		[InlineData(99, "PorudzbenicaId = 99")]
-		[InlineData(555, "PorudzbenicaId = 555")]
+		[InlineData(1, "PorudzbenicaId=1")]
+		[InlineData(99, "PorudzbenicaId=99")]
+		[InlineData(555, "PorudzbenicaId=555")]
 		public void WhereCondition_TrebaDaVratiIspravanUslov(long porudzbenicaId, string ocekivano)
 		{
 			var stavka = new StavkaPorudzbenice
 			{
-				Porudzbenica = new Porudzbenica { Id = porudzbenicaId }
+				Porudzbenica = new Porudzbenica { Id=porudzbenicaId }
 			};
 
 			Assert.Equal(ocekivano, stavka.WhereCondition);
@@ -61,7 +61,7 @@ namespace Test.DomainTests
 				CenaStavke = 1200.5,
 				UkupnaCena = 3601.5,
 				Porudzbenica = new Porudzbenica { Id = 2 },
-				Artikal = new Artikal { Id = 4 }
+				Artikal = new Artikal { Id = 4, Naziv="aa", Cena= 1200.5 }
 			};
 
 			string ocekivano =
@@ -99,7 +99,7 @@ namespace Test.DomainTests
 		public void JoinTable_TrebaDaVratiJoinArtikal()
 		{
 			var stavka = new StavkaPorudzbenice();
-			Assert.Contains("JOIN Artikal a ON sp.ArtikalId = a.Id", stavka.JoinTable);
+			Assert.Contains("join artikal a on sp.ArtikalId=a.Id", stavka.JoinTable);
 		}
 
 		[Fact]

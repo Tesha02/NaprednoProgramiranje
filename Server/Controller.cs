@@ -69,10 +69,11 @@ namespace Server
 			return so.Result;
 		}
 
-		public void DodajKupca(Kupac k)
+		public Kupac DodajKupca(Kupac k)
 		{
 			DodajKupcaSO so = new DodajKupcaSO(k);
 			so.ExecuteTemplate();
+			return so.Result;
 		}
 
 		public Kupac VratiKupca(Kupac k)
@@ -103,16 +104,18 @@ namespace Server
 			return so.Result;
 		}
 
-		public void DodajPorudzbenicu(Porudzbenica p)
+		public Porudzbenica DodajPorudzbenicu(Porudzbenica p)
 		{
 			DodajPorudzbenicuSO so = new DodajPorudzbenicuSO(p);
 			so.ExecuteTemplate();
+			return so.Result;
 		}
 
-		public void DodajArtikal(Artikal a)
+		public Artikal DodajArtikal(Artikal a)
 		{
 			DodajArtikalSO so = new DodajArtikalSO(a);
 			so.ExecuteTemplate();
+			return so.Result;
 		}
 
 		public void DodajMesto(Mesto m)
@@ -121,10 +124,11 @@ namespace Server
 			so.ExecuteTemplate();
 		}
 
-		public void DodajStrSpremu(StrSprema ss)
+		public StrSprema DodajStrSpremu(StrSprema ss)
 		{
 			DodajStrSpremuSO so = new DodajStrSpremuSO(ss);
 			so.ExecuteTemplate();
+			return so.Result;
 		}
 
 		public Artikal AzurirajArtikal(Artikal a)

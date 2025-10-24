@@ -8,6 +8,12 @@ namespace Common.Domain
 	/// </summary>
 	public class Radnik : IEntity
 	{
+		private string ime;
+		private string prezime;
+		private string email;
+		private string kontakt;
+		private string korisnickoIme;
+		private string lozinka;
 		/// <summary>Jedinstveni identifikator radnika.</summary>
 		public long Id { get; set; }
 
@@ -24,10 +30,26 @@ namespace Common.Domain
 		public string Kontakt { get; set; }
 
 		/// <summary>Korisničko ime za prijavu.</summary>
-		public string KorisnickoIme { get; set; }
+		public string KorisnickoIme
+		{
+			get => korisnickoIme;
+			set
+			{
+				Validator.ValidateStrings(value, "Korisnicko ime radnika");
+				korisnickoIme = value;
+			}
+		}
 
 		/// <summary>Lozinka za prijavu (plain u ovoj implementaciji).</summary>
-		public string Lozinka { get; set; }
+		public string Lozinka
+		{
+			get => lozinka;
+			set
+			{
+				Validator.ValidateStrings(value, "Lozinka radnika");
+				lozinka = value;
+			}
+		}
 
 		/// <summary>Lista povezanih potvrda stručne spreme.</summary>
 		public List<PrSS> PrSSi { get; set; }

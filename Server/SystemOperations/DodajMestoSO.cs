@@ -24,6 +24,11 @@ namespace Server.SystemOperations
 		private readonly Mesto mesto;
 
 		/// <summary>
+		/// Rezultat operacije — mesto koje je uspešno dodato u bazu (uključujući dodeljeni Id).
+		/// </summary>
+	
+
+		/// <summary>
 		/// Inicijalizuje novu instancu operacije za dodavanje mesta.
 		/// </summary>
 		/// <param name="m">Mesto koje treba da bude dodato u bazu.</param>
@@ -42,6 +47,7 @@ namespace Server.SystemOperations
 		protected override void ExecuteConcreteOperation()
 		{
 			broker.Add(mesto);
+			
 		}
 	}
 }

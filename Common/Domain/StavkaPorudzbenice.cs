@@ -10,17 +10,50 @@ namespace Common.Domain
 	/// </summary>
 	public class StavkaPorudzbenice : IEntity
 	{
+		/// <summary>
+		/// Zbog logicke kontrole izdvajamo kolicinu, cenu stavke i ukupnu cenu u logicke promenljive
+		/// </summary>
+		private long kolicina;
+		private double cenaStavke;
+		private double ukupnaCena;	
 		/// <summary>Identifikator stavke.</summary>
 		public long Id { get; set; }
 
 		/// <summary>Količina izabranog artikla.</summary>
-		public long Kolicina { get; set; }
+		public long Kolicina
+		{
+			get => kolicina;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateNumbers(value, "Količina stavke porudžbenice");
+				kolicina = value;
+			}
+		}
 
 		/// <summary>Cena jedne stavke (po artiklu).</summary>
-		public double CenaStavke { get; set; }
+		public double CenaStavke
+		{
+			get => cenaStavke;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateNumbers(value, "Cena stavke porudžbenice");
+				cenaStavke = value;
+			}
+		}
 
 		/// <summary>Ukupna cena za stavku (količina * cena).</summary>
-		public double UkupnaCena { get; set; }
+		public double UkupnaCena
+		{
+			get => ukupnaCena;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateNumbers(value, "Cena stavke porudžbenice");
+				ukupnaCena = value;
+			}
+		}
 
 		/// <summary>Porudžbenica kojoj stavka pripada.</summary>
 		[JsonIgnore]

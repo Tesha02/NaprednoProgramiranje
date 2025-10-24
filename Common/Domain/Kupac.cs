@@ -8,20 +8,63 @@ namespace Common.Domain
 	/// </summary>
 	public class Kupac : IEntity
 	{
+		/// <summary>
+		/// Zbog logicke kontrole izdvojicemo ime, prezime,email i kontaktTelefon u privatne promenljive
+		/// </summary>
+		private string ime;
+		private string prezime;
+		private string email;
+		private string kontaktTelefon;
+
 		/// <summary>Jedinstveni identifikator kupca.</summary>
 		public long Id { get; set; }
 
 		/// <summary>Ime kupca.</summary>
-		public string Ime { get; set; }
+		public string Ime {
+			get => ime;
+			set 
+			{
+				if (value == null) return;
+				Validator.ValidateStrings(value, "Ime kupca");
+				ime = value;
+			} 
+		}
 
 		/// <summary>Prezime kupca.</summary>
-		public string Prezime { get; set; }
+		public string Prezime
+		{
+			get => prezime;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateStrings(value, "Prezime kupca");
+				prezime = value;
+			}
+		}
 
 		/// <summary>Email adresa kupca.</summary>
-		public string Email { get; set; }
+		public string Email
+		{
+			get => email;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateStrings(value, "Email kupca");
+				email = value;
+			}
+		}
 
 		/// <summary>Kontakt telefon kupca.</summary>
-		public string KontaktTelefon { get; set; }
+		public string KontaktTelefon
+		{
+			get => kontaktTelefon;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateStrings(value, "Broj telefona kupca");
+				kontaktTelefon = value;
+			}
+		}
 
 		/// <summary>Mesto prebivališta kupca.</summary>
 		public Mesto Mesto { get; set; }

@@ -9,6 +9,10 @@ namespace Common.Domain
 	/// </summary>
 	public class Porudzbenica : IEntity
 	{
+		/// <summary>
+		/// Zbog logicke kontrole idvajamo ukupnuVr u privatnu promenljivu
+		/// </summary>
+		private float ukupnaVr;
 		/// <summary>Jedinstveni identifikator porudžbenice.</summary>
 		public long Id { get; set; }
 
@@ -19,7 +23,16 @@ namespace Common.Domain
 		public DateOnly DatumDo { get; set; }
 
 		/// <summary>Ukupna vrednost porudžbenice.</summary>
-		public float UkupnaVr { get; set; }
+		public float UkupnaVr
+		{
+			get => ukupnaVr;
+			set
+			{
+				if (value == null) return;
+				Validator.ValidateNumbers(value, "Ukupna vrednost porudzbenice");
+				ukupnaVr = value;
+			}
+		}
 
 		/// <summary>Radnik odgovoran za porudžbenicu.</summary>
 		public Radnik Radnik { get; set; }
